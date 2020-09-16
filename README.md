@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Amrutham, Naresh Kumar 😄, I am currently working as Site Reliability Engineer at Linkedin. In the past, I've also worked as Devops Engineer, Software Engineer (Infrastructure) etc.
+I'm **Amrutham, Naresh Kumar** 😄, I am currently working as Site Reliability Engineer at Linkedin. In the past, I've also worked as Devops Engineer, Software Engineer (Infrastructure) etc.
 
 I've worked on Kubernetes and contributed code to [kubernetes/kops](https://github.com/kubernetes/kops). I am proficient in programing languages Python, Golang, Ruby, Javascript. Some of the tools and frameworks I've worked with in the past: AWS, Terraform, Consul, Django, Flask, Chef, Ansible, Saltstack etc.,🌱 I’m currently learning [Ember.js](https://emberjs.com/).
 
-⚡ Fun fact: I'm an aspiring photographer :camera: and I love traveling :airplane:. Checkout my Instagram: [nareshamrutham](https://www.instagram.com/nareshamrutham/) :smiley:
+⚡ **Fun fact**: I'm an aspiring photographer :camera: and I love traveling :airplane:. 
+
+#### Find me here :point_down: 
+- [LinkedIn](https://www.linkedin.com/in/nareshku/) 
+- [Twitter](https://twitter.com/_nareshk)
+- [Instagram](https://www.instagram.com/nareshamrutham/)
+
