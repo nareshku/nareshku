@@ -24,5 +24,5 @@ I've worked on Kubernetes and contributed code to [kubernetes/kops](https://gith
 #### Find me here :point_down: 
 - [LinkedIn](https://www.linkedin.com/in/nareshku/) 
 - [Twitter](https://twitter.com/_nareshk)
-- [Instagram](https://www.instagram.com/nareshamrutham/)
+- [Instagram](https://www.instagram.com/exposure_envy/)
 
