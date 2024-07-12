@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Amrutham, Naresh Kumar** 😄, I am currently working as a Site Reliability Engineer at Linkedin. In the past, I've also worked as DevOps Engineer, Software Engineer (Infrastructure), etc.
+I'm **Amrutham, Naresh Kumar** 😄, I am currently working as a Site Reliability Engineer at Linkedin.
 
 ⚡ **Fun fact**: I'm an aspiring photographer :camera: and I love traveling :airplane:. 
 
 #### Find me here :point_down: 
 - [LinkedIn](https://www.linkedin.com/in/nareshku/) 
-- [Twitter](https://twitter.com/_nareshk)
-- [Instagram](https://www.instagram.com/exposure_envy/)
 
