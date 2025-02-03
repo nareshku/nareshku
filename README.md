@@ -1,24 +1,10 @@
-### Hi there 👋
+## 👋 About Me
+I am a Senior Software Engineer specializing in **Site Reliability Engineering (SRE)** and **Infrastructure Engineering** with extensive experience in **building, scaling, and maintaining resilient distributed systems**. My expertise lies in designing and managing large-scale infrastructure that supports mission-critical applications, ensuring high availability, observability, and performance.
 
-<!--
-**nareshku/nareshku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Over the years, I have played a key role in driving infrastructure strategy at some of the world’s leading tech companies, including **LinkedIn**, **Intuit**, **Oracle**, and **Citigroup**. My work has spanned across cloud computing, distributed systems, reliability engineering, and automation, helping organizations improve developer productivity and operational excellence.
 
-Here are some ideas to get you started:
+I am also an active open-source contributor, having made impactful contributions to projects in the Kubernetes ecosystem, observability tooling, and workflow orchestration. I believe in fostering collaboration, sharing knowledge, and building solutions that enhance the reliability and efficiency of modern cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm **Amrutham, Naresh Kumar** 😄, I am currently working as a Site Reliability Engineer at Linkedin.
-
-⚡ **Fun fact**: I'm an aspiring photographer :camera: and I love traveling :airplane:. 
-
-#### Find me here :point_down: 
-- [LinkedIn](https://www.linkedin.com/in/nareshku/) 
-
+## 🌍 Connect with Me
+**GitHub**: [github.com/nareshku](https://nareshku.github.io)\
+**LinkedIn**: [linkedin.com/in/nareshku](https://linkedin.com/in/nareshku)
